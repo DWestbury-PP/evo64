@@ -7,6 +7,7 @@
 **EVO64** is a reimagining of the classic Commodore 64 with modern features and flourishes. This project brings the beloved C64 experience into the modern era while maintaining the authentic retro computing spirit that made the original so special.
 
 ### Key Features
+![EVO64 Logo](image-gallery/EVO64-Features.png)
 
 - **Modern Hardware Design** - Updated internals with contemporary components
 - **Authentic Experience** - Maintains the classic C64 look, feel, and compatibility
