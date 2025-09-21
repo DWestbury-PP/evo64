@@ -2,7 +2,7 @@
 
 ![EVO64 Logo](image-gallery/EVO_Rev1%20-%20Full%20Premium%20Build%20with%20NuTube64%20on%20Marble%20Counter.png)
 
-## 🎯 About EVO64
+## About EVO64
 
 **EVO64** is a reimagining of the classic Commodore 64 with modern features and flourishes. This project brings the beloved C64 experience into the modern era while maintaining the authentic retro computing spirit that made the original so special.
 
@@ -16,11 +16,11 @@
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 This repository contains supporting materials for the EVO64 project. While the hardware design and schematics remain proprietary, we're sharing essential resources for the community:
 
-### 📚 Documentation (`/documentation/`)
+### Documentation (`/documentation/`)
 Comprehensive guides and technical documentation:
 - **EVO64 DIY Build Guide.pdf** - Complete assembly instructions
 - **EVO64 Getting Started Guide.pdf** - Setup and initial configuration
@@ -28,17 +28,17 @@ Comprehensive guides and technical documentation:
 - **Technical Guides** - SID Audio, ROM Management, Tube Preamps, and more
 - **Bill of Materials (BOM)** - Component lists for different configurations
 
-### 🖼️ Image Gallery (`/image-gallery/`)
+### Image Gallery (`/image-gallery/`)
 High-quality photos showcasing different EVO64 builds:
 - Premium builds with NuTube64 and Triode64
 - Various case configurations (Breadbin, Plexilaser, MODULR)
 - Assembly photos and finished systems
 - Prototype and development images
 
-### 🎨 Marketing Materials (`/promo-marketing/`)
+### Marketing Materials (`/promo-marketing/`)
 - Project advertisements and promotional graphics
 
-### 🔧 3D Printables (`/3D-printables/`)
+### 3D Printables (`/3D-printables/`)
 Community-contributed 3D printing files organized by creator:
 - **LCD Mounts** - 16x2 and 20x4 display mounting solutions
 - **Keyboard Mounts** - Various case compatibility options
@@ -47,12 +47,12 @@ Community-contributed 3D printing files organized by creator:
 - **SIDKick & VIC-II Kawari** - Accessory housings
 - **Case-Specific Mounts** - Plexi, C64c, and MODULR case accessories
 
-### 📊 Interactive BOMs (`/ibom-html/`)
+### Interactive BOMs (`/ibom-html/`)
 - Interactive HTML bill of materials for easy component identification
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -94,7 +94,7 @@ git lfs pull
 
 ---
 
-## 📋 Large Files Information
+## Large Files Information
 
 This repository contains **90 files** managed by Git LFS, totaling approximately **411 MB** of content including:
 
@@ -118,26 +118,26 @@ When contributing new files:
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 evo64/
-├── 📚 documentation/           # Technical documentation and guides
-├── 🖼️ image-gallery/           # Project photos and showcase images
-├── 🎨 promo-marketing/         # Marketing and promotional materials
-├── 🔧 3D-printables/          # Community 3D printing files
+├── documentation/           # Technical documentation and guides
+├── image-gallery/           # Project photos and showcase images
+├── promo-marketing/         # Marketing and promotional materials
+├── 3D-printables/          # Community 3D printing files
 │   ├── Cart Shield Cover/     # Cartridge port covers
 │   ├── Keyboard Mounts/       # Various keyboard mounting solutions
 │   ├── LCD Mounts/           # Display mounting hardware
 │   ├── MSM Mounts/           # Multi Switch Module mounts
 │   └── [Various creators]/    # Organized by contributor
-├── 📊 ibom-html/              # Interactive bill of materials
-└── 📄 README.md               # This file
+├── ibom-html/              # Interactive bill of materials
+└── README.md               # This file
 ```
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions to the supporting materials! Here's how you can help:
 
@@ -166,7 +166,7 @@ We welcome contributions to the supporting materials! Here's how you can help:
 
 ---
 
-## ⚠️ Important Notes
+## Important Notes
 
 - **Hardware Design**: The PCB schematics and hardware design files are not included in this repository
 - **Commercial Use**: Please respect any licensing terms associated with contributed files
@@ -175,7 +175,7 @@ We welcome contributions to the supporting materials! Here's how you can help:
 
 ---
 
-## 📞 Support & Community
+## Support & Community
 
 - **Issues**: Report problems or request features via GitHub Issues
 - **Discussions**: Join community discussions in GitHub Discussions
@@ -183,7 +183,7 @@ We welcome contributions to the supporting materials! Here's how you can help:
 
 ---
 
-## 📄 License
+## License
 
 See the [LICENSE](LICENSE) file for details regarding the use of materials in this repository.
 
@@ -191,7 +191,7 @@ Individual contributors may have specific licensing terms for their submissions 
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Special thanks to all community contributors who have shared their 3D designs, documentation improvements, and build photos:
 
@@ -203,4 +203,4 @@ Special thanks to all community contributors who have shared their 3D designs, d
 
 ---
 
-*EVO64 - Bringing the C64 experience to the modern era* 🚀
+*EVO64 - Bringing the C64 experience to the modern era*
