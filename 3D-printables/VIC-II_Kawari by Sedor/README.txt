@@ -1,1 +1,0 @@
-VIC-II Kawari Large - housing by Sedor on Thingiverse: https://www.thingiverse.com/thing:5958560

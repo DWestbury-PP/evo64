@@ -1,1 +1,0 @@
-LCD 20x4 Holder by Prosto_Maksks on Thingiverse: https://www.thingiverse.com/thing:3134853

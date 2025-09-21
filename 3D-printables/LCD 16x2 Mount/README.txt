@@ -1,1 +1,0 @@
-LCD stand for 16x2 Arduino display by shendriks on Thingiverse: https://www.thingiverse.com/thing:614241
