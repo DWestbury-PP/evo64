@@ -203,5 +203,15 @@ Special thanks to all community contributors who have shared their 3D designs, d
 - And many others in the EVO64 community!
 
 ---
+- All technical engineering work, including initial project conception, PCB design and extensive build testing by Dr. Stefano (aka Auroscience)
+- Inspiration came from Hans Petter Dalsklev who worked on the C64 assembly 250407 board layout
+- Inspiration for the ClearVideo64 video circuit came from Jay Desmarais (Jaystonian), however EVO’s implementations are unique and distinct
+- Inspiration for Multi-SID and multi-ROM circuits came from Henning Liebenau, however EVO’s implementations are unique and distinct
+- Inspiration for the “HeyBirt” Voltage Controlled Oscillator (VCO) / MOS 8701 Clock replacement circuit came from Jeff Birt (HeyBirt)
+- The EVO64 logo, case badges and other branding have been developed by the Retro Badgeman
+- Social media, tech documentation, web site maintenance & “innovative ideation” by Darrell Westbury
+- Beta builds, testing and engineering support by Darrell Westbury, M. Bernardo (aka SX64Man) and H. Eckert.
+
+---
 
 *EVO64 - Bringing the C64 experience to the modern era*
