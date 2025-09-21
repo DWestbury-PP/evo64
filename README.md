@@ -123,16 +123,17 @@ When contributing new files:
 
 ```
 evo64/
-├── documentation/             # Technical documentation and guides
-├── image-gallery/             # Project photos and showcase images
-├── promo-marketing/           # Marketing and promotional materials
 ├── 3D-printables/             # Community 3D printing files
 │   ├── Cart Shield Cover/     # Cartridge port covers
 │   ├── Keyboard Mounts/       # Various keyboard mounting solutions
 │   ├── LCD Mounts/            # Display mounting hardware
 │   ├── MSM Mounts/            # Multi Switch Module mounts
 │   └── [Various creators]/    # Organized by contributor
+├── documentation/             # Technical documentation and guides
 ├── ibom-html/                 # Interactive bill of materials
+├── image-gallery/             # Project photos and showcase images
+├── Multi-SID Tester           # Player tool to test SID Addresses
+├── promo-marketing/           # Marketing and promotional materials
 └── README.md                  # This file
 ```
 
