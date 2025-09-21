@@ -1,0 +1,14 @@
+.label SPRITE_POS_X=$844
+.label spriteCharDefs=$85c
+.label displaySprites=$810
+.label spritePointerLoop=$818
+.label SPRITE_POS_Y=$854
+.label STATUS1=$2c00
+.label SIDADDR=$2000
+.label STATUS6=$3480
+.label STATUS5=$32c0
+.label STATUS4=$3140
+.label STATUS3=$2f55
+.label SPRITE_POS_X_OFFSET=$84c
+.label STATUS2=$2d94
+.label SetSpritePos=$826
