@@ -28,6 +28,7 @@ Comprehensive guides and technical documentation:
 - **EVO64 Product Brief.pdf** - Project overview and specifications
 - **Technical Guides** - SID Audio, ROM Management, Tube Preamps, and more
 - **Bill of Materials (BOM)** - Component lists for different configurations
+- **MSM Command Sheet** - printable quick references by Retrosarge
 
 ### Image Gallery (`/image-gallery/`)
 High-quality photos showcasing different EVO64 builds:
@@ -201,6 +202,7 @@ Special thanks to all community contributors who have shared their 3D designs, d
 - **Jaystonian** - Keyboard mounting solutions
 - **Perifractic** - C64c case compatibility mounts
 - **BattleQuest** - MSM mounting hardware
+- **Retrosarge** - MSM command sheet quick references
 - And many others in the EVO64 community!
 
 ---
